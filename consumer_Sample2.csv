@@ -1,0 +1,101 @@
+Consumer_Key,Deletion_Flag,,Salutation,First_Name,Middle_Name,,Suffix,Gender,,Nationality,Phone_Number,Address_Line_1,Address_Line_2,Postal_Code,City,Region_Key,Country_ISO_2
+16a3f1e8097de4ab7a7c0782c3c037ac6c41222345b84e74d2fe11617f99b553,FALSE,,,Jose luis,,,,N,,,,,,41006,Sevilla,Sevilla,ES
+33e2e66a6cad05355b8ebe8ba2f255ee3f03de85866c96eeb19f695618269c59,FALSE,,,ISAAC,,,,M,,,,,,,Calatayud,Zaragoza,ES
+79ea4bd5135f3b83b82909f680883a148ffd8f0a7b05a88d14a1bba2442986fb,FALSE,,,MARIA,,,,F,,,,,,3110,Mutxamel,Alicante,ES
+1f2f11635aed8c82fdc7aab9505df3277333854d8e27327a6047a07aeee11f84,FALSE,,,ANTONIO,,,,M,,,,,,6220,Villafranca de los Barros,Badajoz,ES
+478e872686eb385a343769af801db13ef7d435d1842fa5848b600b5fdef30678,FALSE,,,KARINA,,,,F,,,,,,,Madrid,Madrid,ES
+be23138f4b400318d97bc7a49b1fdc209d379c6530b583910c21654ed2c0f841,FALSE,,,SERGIO,,,,M,,,,,,28470,Cercedilla,Madrid,ES
+e44e5b41cd7e9b8398c97f5c3db03d5efc30328f50152d52be1849a827606054,FALSE,,,KASSANDRA,,,,N,,,,,,,Santiago de Compostela,Coruña,ES
+be56e2c6a1019aaf4172a36ed48b90dd85734b7ef4d23391e4a4416ea101cf1e,FALSE,,,SARA,,,,N,,,,,,,León,León,ES
+3c155e858a8f9d88001bdc4180995687cbd0b5fc992456dff47e26e9277ceb2a,FALSE,,,MARIA,,,,N,,,,,,41740,Lebrija,Sevilla,ES
+f48663130614feac93edb37559b7f94fd53ef6ac333a75057e1f53336275b45a,FALSE,,,MARIA,,,,F,,,,,,,Madrid,Madrid,ES
+2c5c3fd3c715305d9d048d0bdb40559f0817897d6e952fa43737a1768123a6b1,FALSE,,,CATALINA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+6e7afd469fb6fd3afce135371ff769170aab23bebae14d8106e8e972b6480653,FALSE,,,KARINA,,,,F,,,,,,,Madrid,Madrid,ES
+dbfd13821bd6d2aa663d96e6aaf6495e7aabe5dfa3b9be09592d82cd7bb0628e,FALSE,,,KARINA,,,,F,,,,,,,Ingenio,Las Palmas,ES
+740069ef86db8e0b4c13905c2b7f57461bbc2441a0fb364ca68c9dc0d1333db3,FALSE,,,MARIA,,,,F,,,,,,,Getxo,Vizcaya,ES
+5fd106f0423bee8123af8dcae1733096903f68343d8e0e8141030082250e1f34,FALSE,,,KARLA,,,,F,,,,,,,Lorca,Murcia,ES
+cae0d218e662c9e725ab014977e4927627e94e6b02ba672fff1e3a7c341fc847,FALSE,,,KATHERINE,,,,F,,,,,,,València,Valencia,ES
+61527224fa1e7d38b0b9be0a99c00d75a8feea2e3f547f6506bb9633f3443b8b,FALSE,,,KARINA,,,,F,,,,,,,Oviedo,Asturias,ES
+704994c9c7d1efabc366f835b31aecb99468d4c8a31f377882509ac62c99a92d,FALSE,,,KARLA PATRICIA,,,,F,,,,,,,Alcoy/Alcoi,Alicante,ES
+e3123966dca9a1eb0e9145dc48bc6bfcb010448f1f2c07aa7785e5eb192ed7ad,FALSE,,,MARIA,,,,F,,,,,,,Barcelona,Barcelona,ES
+80122b6a49c07858c7ec7edc042e878830061e05e8263e439ed48a0f50628f20,FALSE,,,MARIA,,,,F,,,,,,,Huelva,Huelva,ES
+891c2fb318d0d4fa7001ff7a356f7e559975ce8fe4f5ec577a253b8021933cb1,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+b2607e663f67ef196baec084dce89f4e24e2c3aacc45f4ef30f649afdcdb28a0,FALSE,,,MARIA,,,,F,,,,,,,València,Valencia,ES
+286e2922ede6417862023d880910fad60598dbfab18f826cf55619957a701a4c,FALSE,,,KATY,,,,F,,,,,,,Cambados,Pontevedra,ES
+a89da98064794383914ef47844b1b7230bf4ed67243b6493cc9f48957e68d66d,FALSE,,,JOSSELYN,,,,N,,,,,,,Barcelona,Barcelona,ES
+e6469c9a214173a6567053f148d70dab23e1a0a725473003aa1a8190c3a966cb,FALSE,,,PEDRO,,,,M,,,,,,,Málaga,Málaga,ES
+4f8b3aa295070c3d087b6ff30afe13f64b98d9aafc851709d8cb4eedc4b5339f,FALSE,,,KENIA,,,,N,,,,,,,Sabadell,Barcelona,ES
+f639129554632533773a2e37a33df45b2041eb9b7bf60bfa698848a958ec00e0,FALSE,,,MARISA,,,,F,,,,,,,Cádiz,Cádiz,ES
+17f3e34b09ac43f46174aad69e44e4a851df327e9ca7a3f5f99ee7fddcf28462,FALSE,,,JOANNA,,,,F,,,,,,,Barcelona,Barcelona,ES
+a2a34ccfdb22dd94f234a7be4e6b4796ca9c60868f5831e59e929d810e789777,FALSE,,,MARIA DE LA C.,,,,F,,,,,,,Cádiz,Cádiz,ES
+df55a0a5e8be4b290e3075fd00de06ec3635252ab2321c5f9b2102beac838a28,FALSE,,,MARIA,,,,F,,,,,,,Lleida,Lérida,ES
+223010a37d46990ca5b4cac83ae2ef871ec55818cc37092701ba531440b7684c,FALSE,,,CARLA,,,,N,,,,,,,València,Valencia,ES
+6a5479af03127efafb1c2ec56e2712f3a42fc2c7b4f0000c3fc1e9f63d8449af,FALSE,,,MARIA,,,,F,,,,,,25141,Torregrossa,Lérida,ES
+516062a0737922ba9e58a0f1358c2df0bf1ba54f2e87e91167b169a1da0a6c13,FALSE,,,KARIN,,,,F,,,,,,,Nerja,Málaga,ES
+69c87c6ac495c2a6b6c8f4754bdeebc1089762e03b55a91b0f86934d57000fc6,FALSE,,,MARIA,,,,F,,,,,,,Torrelavega,Cantabria,ES
+097fc5d462e5fdb91cccb6223a78fefd21b48a22771938bea61e82187ed31da9,FALSE,,,MIGUEL,,,,M,,,,,,46470,Albal,Valencia,ES
+48725d36b3f9a3886acdda682294a3eabba7f62aa3f335a33d1f15f38a5321b4,FALSE,,,KATERINA,,,,N,,,,,,,Torrelavega,Cantabria,ES
+ac84bee9bf2ff40b622c32b0c2365965cb0e2cb9b6ed70ebe10131e69d1a2c25,FALSE,,,KATIE,,,,F,,,,,,,Bilbao,Vizcaya,ES
+5b9b55fcfb1cabfb748028a552179460eaed17918076bcca4fdff7e7c905c584,FALSE,,,HIDEKO,,,,N,,,,,,,Bergara,Guipúzcoa,ES
+f0659728e02e542213c2dad529a5f51f9fdda2f0b12fb44e99ad4967afd75dd1,FALSE,,,MARIA,,,,F,,,,,,,Madrid,Madrid,ES
+ea94f0790f7c6a32e6149af461418979079c8a64e15eac26fa26e7338fe3e4ac,FALSE,,,KARLA,,,,F,,,,,,,Castell-Platja d'Aro,Gerona,ES
+ef4993c1b0b0f1824becb8c926fead7ee296f475d31673995df010dfc20c4c19,FALSE,,,KATHERIN,,,,N,,,,,,,Murcia,Murcia,ES
+af47ee31a1cd23fa30a92405084dbb7dbe6a0b8994fc6cea8c3dbe097e231afc,FALSE,,,KARLA,,,,F,,,,,,,Bilbao,Vizcaya,ES
+d9d665e357258834cc9114a91eae750549f9d89a2a8c263d2ecb35a0521a65c9,FALSE,,,MARI,,,,N,,,,,,,Sevilla,Sevilla,ES
+ab4d75e3542f602f8032cd001bd84173dcef9c87f6b1cb2f670ecc83da8c5db6,FALSE,,,KARLA VIRIDIANA,,,,F,,,,,,,Bilbao,Vizcaya,ES
+0f18673b4084cd95e9ce0a70798e08bdb815ae0a8edeca7e43c954138035510e,FALSE,,,KARLA,,,,F,,,,,,,Calafell,Tarragona,ES
+e2caa0ded930287948a661992eb6bbacbecf5eb4f6c0cccb52bab74922639b38,FALSE,,,KATHERINE PATRICIA,,,,F,,,,,,,Madrid,Madrid,ES
+61ebbbde7960f37500cadc79b9c51353ffbdcd8d888fdab79fde26314232b246,FALSE,,,KATERIN,,,,N,,,,,,,València,Valencia,ES
+d5d1075b1733731858903a9aeb5777b50f158037d46ab6ee6a0d5622fd4580d9,FALSE,,,MARIA,,,,F,,,,,,,Madrid,Madrid,ES
+c25c47680b7a4db4a472dbfd07dffaab6837c52339dea95e62856384c272d90d,FALSE,,,KATHERINE,,,,F,,,,,,,Barcelona,Barcelona,ES
+172b3acadeffe172ff7e94b7ea2e0daf461d25d7f5146e2e9889c80b2db5d548,FALSE,,,KATE,,,,F,,,,,,,Mijas,Málaga,ES
+03d2927186e6c3e779db0e824905f58f2419e60176bb27d5da5774166f39e4c6,FALSE,,,ESTHER ELIZABETH,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+d070bd9598e32d53e54557977cde6ecfb335e9f0c2674c8faddf244dacd3fa37,FALSE,,,KARINE,,,,N,,,,,,28720,Bustarviejo,Madrid,ES
+b8cb9f4f900355ce2b26a4635ccbc9af4fee69ff214160169a8d7c96e6ab87a9,FALSE,,,MARIA,,,,F,,,,,,,Sevilla,Sevilla,ES
+79f29d7992f62ec56e0457500614f6f47b3c5c1bf5f06b82f57b4103bd1049de,FALSE,,,MARIA,,,,F,,,,,,,Algete,Madrid,ES
+5892ce8c0558673023351556c02d239ef5b977765f91e9691b3f871c75407e19,FALSE,,,LOIMEN,,,,N,,,,,,,Sevilla,Sevilla,ES
+b804b75ea3d36962b7024d7cfa77ace55c381c48f731f2a00bf676fe7947999d,FALSE,,,KATI,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+8877efcebed45245631345e71e72575ef807926cddf36c9a68ddc99fa5688917,FALSE,,,KARLALISETTE,,,,N,,,,,,,Madrid,Madrid,ES
+c32bd9bf53bd2a39d086de0d8f3f475ff1563c91cb72aa546a5b25203d2aa640,FALSE,,,JULISSA,,,,F,,,,,,8940,Cornellà de Llobregat,Barcelona,ES
+3e9ba23969b5b56b4f50a9eec1338916a02de2549521c2f12bb0a2c30cd771d1,FALSE,,,KARLA,,,,F,,,,,,10300,Navalmoral de la Mata,Cáceres,ES
+662e314052ad792b9458ecca60504609be88eb2e8e7735ac83631170031685b2,FALSE,,,MARIA,,,,F,,,,,,28400,Collado Villalba,Madrid,ES
+e237a7418d9c411c335a41926df464589c8906661fb47928d0aab0113ff02442,FALSE,,,MAITANE,,,,F,,,,,,,Irun,Guipúzcoa,ES
+6ff97ceb31f0f6434597540864c41ef0f1a647a106532a7e7487e63c02bc8248,FALSE,,,MARIA,,,,F,,,,,,,Sueca,Valencia,ES
+45527a95fa4518d52ae11fb7f5154dc0e389b6a672106c4a08537be94f3450b5,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+a47c3ccf9047589c6d2282dfa52e0c69ad64106b24426f203f0bc7a8c2c29b94,FALSE,,,MARIOLA,,,,F,,,,,,,Badajoz,Badajoz,ES
+34fae145507de1fec780d5fd87cc589adf8c420e266b9878686b2ea026c96f67,FALSE,,,KARLA,,,,F,,,,,,,Madrid,Madrid,ES
+580ddde4899a062d7eb52e50f99d0f1d64fd895ddecda3b0a0dd4536bf824459,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+ad07586d18fd48be0e2e32246c256baf5f62474f08475b3c0a5cfc94248f4b4f,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+fcee26a0cd5fb34dde10a04105fa797275a3ddd602d1e69a6dc61975ce0e08ff,FALSE,,,KATERINE,,,,N,,,,,,,Valladolid,Valladolid,ES
+e962287130274a803179a7579c1453702309710803962ae2b71c652fa8d834f1,FALSE,,,RAMON,,,,M,,,,,,,Bilbao,Vizcaya,ES
+78e0883bfeaead6242409ad903b25a5a38338c40b5d9f4378f5d873076364b99,FALSE,,,MARIA,,,,F,,,,,,,Huelva,Huelva,ES
+b2a3dad68b58b6eb2dabfef382fbf47082e3d95d8e17491a069b5a77a6cc21c8,FALSE,,,CARLOS,,,,M,,,,,,,Plasencia,Cáceres,ES
+7c5bcf6b38ed4f6efd00ddef947abefed44815042f34c97e6bf18880cb74bde4,FALSE,,,RAFAEL,,,,M,,,,,,,Málaga,Málaga,ES
+980e3a0f5e975570fbb7d9c65b019f2e40a3ea456e7c21829c287fdf388d208c,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+022c142ace7cd6fbd02d79d4e934cb0679e597cf6fc5ec78dfd12870a829fd06,FALSE,,,KAZZ,,,,N,,,,,,,Donostia/San Sebastián,Guipúzcoa,ES
+e43bfa474338a0c70bbd9a76e24a21178892efdb196db23d97169ed06d8bba85,FALSE,,,KELLY KATERINE,,,,F,,,,,,3610,Petrer,Alicante,ES
+d8d5c332e35596032e723aa70de7a1d9fb1f7157be7f0759f85e75fd199ce1e1,FALSE,,,KAROL STEPHANY,,,,F,,,,,,3110,Mutxamel,Alicante,ES
+cbbc37f370b099ae0c12cc0eab7bf2d402a8849f2a158c1c42a15afbb4cbda0d,FALSE,,,RICARDO,,,,M,,,,,,21740,Hinojos,Huelva,ES
+eab16fc866678716018637c3745201bafc3d2ccd20ba79f64a15131ffc6c24ee,FALSE,,,KARLA,,,,F,,,,,,,Alcorcón,Madrid,ES
+375b1ab96c7b5a88012ab2b94a96daacea3a0c3c4d177999feec549a4b6e907e,FALSE,,,MARIA,,,,F,,,,,,18194,Churriana de la Vega,Granada,ES
+850484e1611313bbf68fd2fae4b153e404a53c44bc908b612d3f1d9489d6676e,FALSE,,,MARICARMEN,,,,N,,,,,,,Alcalá de Guadaíra,Sevilla,ES
+19fdb7d827751b0e935a18fe888d79d384ce986d08519e1ba7b98bcc82b0a888,FALSE,,,KARINA,,,,F,,,,,,,L'Hospitalet de Llobregat,Barcelona,ES
+c89875a593c96d2374f25280a0fccf6bcb049cff4379dea1fd26d6c59d834fab,FALSE,,,KARLA,,,,F,,,,,,,València,Valencia,ES
+3494ca6392430062b0d712c07128359158967b89d75ff23911dc2e95d600b8ba,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+cd42af853fbb2bdad0b4c20aa381aa4478f1b634476e43b1277b475f28453413,FALSE,,,CAROLINA,,,,F,,,,,,46960,Aldaia,Valencia,ES
+24b7512dccd4cf3a4a89e6819bc7652b43106e89247ca9ee5455c6c83dc955da,FALSE,,,KATHERIN ANDREA,,,,N,,,,,,,Bilbao,Vizcaya,ES
+7cf6e338487d98186ccbf18956c3f163dda1f9380742698a10e454a22757a45e,FALSE,,,KATHERINE,,,,F,,,,,,,Santa Coloma de Gramenet,Barcelona,ES
+95f3271c49c48281aa0f34cdbd17a3f9fbd43bbc5225c00202ddd961d528616d,FALSE,,,KARINA,,,,F,,,,,,,València,Valencia,ES
+9e1b2a5681f5f666c612164c1e09aab62a1a916e1bacce6f5d91e2b70f7673f7,FALSE,,,KATERYNA,,,,N,,,,,,,Barcelona,Barcelona,ES
+2797d3aed12d337f9a6fa940f3d57fac1ca06f8acca4b42bad691729eae64cb8,FALSE,,,MARIA,,,,F,,,,,,,Alcobendas,Madrid,ES
+7ff946b30cbb7208d8cb18c77684d588f1b736a8594c887ae1f9fba4ffe6cc4a,FALSE,,,CRISTINA,,,,F,,,,,,48960,Galdakao,Vizcaya,ES
+4ecb9587be00a09366f44837c49266aab7490495a6a9da38e1479ad06d712141,FALSE,,,MARIA DEL MAR,,,,F,,,,,,6197,Entrín Bajo,Badajoz,ES
+dbb79a4a144474187db2d399b963ad699388153b076b3f20fa5b0bca69a7c9fa,FALSE,,,ANA CATALINA,,,,F,,,,,,,Donostia/San Sebastián,Guipúzcoa,ES
+2914edb27d20fd545e811d5ce66a9f62c010a21b47682d8cd0c4611a52226865,FALSE,,,KATERYNA,,,,N,,,,,,,Dénia,Alicante,ES
+11fd0e28445306032192cc3cf3dda8dd3be5d8cee629899ec665c86dd88ef341,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+f040378045f4e2a4b12f41a41c67d34f5472a9372c6a74b398f0499d28b759cf,FALSE,,,MARIA,,,,F,,,,,,,Alicante/Alacant,Alicante,ES
+bbedd19e26e7e7c1adeb48cde65496e36e15ef9a0fedc17dc0e10dc39bcacf13,FALSE,,,KATA,,,,F,,,,,,,Murcia,Murcia,ES
+5acc1cd2dcb667dc0e4a33a5550687309ebbbe5fcca4ef5e33e7218a6937d277,FALSE,,,MARIA,,,,N,,,,,,,O Porriño,Pontevedra,ES
+5aad511b28b357977f53fb4a758f9da1a8e8c9fd30ebda989e4ee50881e3a7fc,FALSE,,,RAFAEL,,,,M,,,,,,,Cartagena,Murcia,ES
+26110f727c7ba8219cd66cd1d039c89e0683d62d9425d280b421a3b935fc3660,FALSE,,,JAVIER,,,,M,,,,,,,Vigo,Pontevedra,ES
+fdedbd2a7a83c8d8338d7ad0bc97b006fe489bc1b1ab3c1ad309b6a6875d63c2,FALSE,,,MARIA,,,,F,,,,,,,Alcobendas,Madrid,ES
